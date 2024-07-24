@@ -43,3 +43,20 @@ Help: Display the help menu with instructions.
 Example Output:
 
 Registration:
+![image](https://github.com/user-attachments/assets/6952bde7-9211-490e-909b-cfc33ed6e0b0)
+
+
+Login:
+![image](https://github.com/user-attachments/assets/5ff009bf-ecf2-4b74-8390-512c071d9c1e)
+
+
+Error Messages
+Username already exists:
+
+arduino
+Copy code
+Username already exists
+Invalid username or password:
+
+Copy code
+Invalid username or password
