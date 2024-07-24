@@ -85,13 +85,13 @@ int main() {
     int choice;
     cout << "\x1B[34m"; // set text color to blue
     cout << "---------------------------------------------------------------------------------------\n";
-    cout << "                 _______           _______           _______          _______          \n";
-    cout << "               //       \\       //        \\      //       \\      //       \\        \n";
-    cout << "               |  Login  |       | Register |      |  Exit   |      |  Help   |        \n";
-    cout << "               \\       //       \\        //      \\       //      \\       //        \n";
-    cout << "                 _______           _______           _______          _______          \n";
+    cout << "                 __________           ________          _______          _______          \n";
+    cout << "               //          \\       //        \\      //       \\      //       \\        \n";
+    cout << "               |  Register  |       |  Login   |      |  Exit   |      |  Help   |        \n";
+    cout << "               \\          //       \\        //      \\       //      \\       //        \n";
+    cout << "                 __________           _______           _______          _______          \n";
     cout << "---------------------------------------------------------------------------------------\n";
-    cout << "1. Login\n2. Register\n3. Exit\n4. Help\n";
+    cout << "1. Register\n2. Login\n3. Exit\n4. Help\n";
     cin >> choice;
     if (choice == 1) {
         registerUser();
