@@ -18,7 +18,7 @@ This project is a simple login and registration system implemented in C++. It de
    ```sh
    g++ -o login_system login_system.cpp
 
-##Usage
+## Usage
 Upon running the program, you will see the following menu:
 
 ---------------------------------------------------------------------------------------
@@ -34,23 +34,23 @@ Upon running the program, you will see the following menu:
 4. Help
 
 
-##Options:
+## Options:
 Login: Enter your username and password to log in.
 Register: Enter a new username and password to register.
 Exit: Exit the program.
 Help: Display the help menu with instructions.
 
-##Example Output:
+## Example Output:
 
-##Registration:
+## Registration:
 ![image](https://github.com/user-attachments/assets/6952bde7-9211-490e-909b-cfc33ed6e0b0)
 
 
-##Login:
+## Login:
 ![image](https://github.com/user-attachments/assets/5ff009bf-ecf2-4b74-8390-512c071d9c1e)
 
 
-##Error Messages
+## Error Messages
 1.Username already exists:
 """bash
 Username already exists
