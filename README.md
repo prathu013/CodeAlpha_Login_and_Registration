@@ -19,6 +19,7 @@ This project is a simple login and registration system implemented in C++. It de
 ## Usage
 Upon running the program, you will see the following menu:
 
+```
 ---------------------------------------------------------------------------------------
                  _______           _______           _______          _______          
                //       \\       //        \\      //       \\      //       \\        
@@ -30,7 +31,7 @@ Upon running the program, you will see the following menu:
 2. Register
 3. Exit
 4. Help
-
+```
 
 ## Options:
 Login: Enter your username and password to log in.
@@ -50,11 +51,11 @@ Help: Display the help menu with instructions.
 
 ## Error Messages
 1.Username already exists:
-"""bash
+```bash
 Username already exists
-"""
+```
 
 2.Invalid username or password:
-"""bash
+```bash
 Invalid username or password
-"""
+```
