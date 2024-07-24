@@ -34,9 +34,12 @@ Upon running the program, you will see the following menu:
 4. Help
 
 
-#Options:
+Options:
 Login: Enter your username and password to log in.
 Register: Enter a new username and password to register.
 Exit: Exit the program.
 Help: Display the help menu with instructions.
 
+Example Output:
+
+Registration:
