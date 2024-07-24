@@ -1,5 +1,3 @@
-# CodeAlpha_Login_and_Registration
-
 # Login and Registration System in C++
 
 This project is a simple login and registration system implemented in C++. It demonstrates basic user authentication using file handling.
